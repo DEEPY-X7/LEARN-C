@@ -2,6 +2,6 @@
     "files.associations": {
         "*.ejs": "html",
         "*.c": "c",
-        "LOOP.C": "cpp"
+        "FUNCTION.C": "cpp"
     }
 }
