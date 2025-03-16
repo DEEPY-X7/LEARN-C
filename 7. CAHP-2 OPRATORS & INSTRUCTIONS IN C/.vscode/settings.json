@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.c": "c",
+        "OPERATORS.C": "cpp",
+        "INSTRUCTIONS.C": "cpp",
+        "CWH.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
