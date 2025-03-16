@@ -34,7 +34,7 @@ Yeh repository C Language ka ek complete collection hai jo maine CodeWithHarry k
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com//C-Programming.git
+git clone https://github.com/DEEPY-X7/LEARN-C.git
 2️⃣ Open the Folder in Your Favorite Code Editor
 3️⃣ Run C Programs using GCC Compiler
 gcc filename.c -o output && ./output
