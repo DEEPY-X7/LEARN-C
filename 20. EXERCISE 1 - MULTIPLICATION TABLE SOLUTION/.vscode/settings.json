@@ -2,7 +2,6 @@
     "files.associations": {
         "*.ejs": "html",
         "*.c": "c",
-        "FUNCTION.C": "cpp",
-        "FUNCTIONS.C": "cpp"
+        "MULTIPLICATION.C": "cpp"
     }
 }
