@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.c": "c",
+        "STRUCTURE.C": "cpp",
+        "EMPLOYEE-MANAGEMENT-TRACKER.C": "cpp"
+    }
+}
