@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.c": "c",
+        "INDEX.C": "cpp",
+        "SOLUTION.C": "cpp"
+    }
+}
